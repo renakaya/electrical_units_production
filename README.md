@@ -10,3 +10,7 @@ high quality if it has a quality score over 70, otherwise, it is not suitable fo
 versus weeks were created. 
 
 ## Initial Plots
+
+# Suggestion for Improvement
+## Improved Plots
+ 
