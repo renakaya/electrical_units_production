@@ -18,5 +18,8 @@ The following helper functions were defined to create the plots of high quality 
 ## Initial Plots
 
 # Suggestion for Improvement
+In an attempt to increase the number of high quality production - and as a result, revenue - a recommendation is made to specialize employees on the electrical component type that they
+have the highest quality score in. Another set of data was calculated using `yearly_production`, called `updated_yearly_production`, where every employee was simulated to produce their 
+component type. The same plots from the initial analysis were recreated to show that the production goals were exceeded by xx amounts on average.
 ## Improved Plots
  
