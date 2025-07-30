@@ -185,7 +185,7 @@ Utotal_cap_revenue = total_revenue("cap", updated_yearly_production)
 Utotal_lcd_revenue = total_revenue("lcd", updated_yearly_production)
 
 
-# Create plots for scenario 1 ==========================================================================
+# Create plots for the initial scenario ==========================================================================
 weeks=[i for i in range(1,53)]
 
 
@@ -231,7 +231,7 @@ plt.suptitle('High Quality Production Rates by Component', fontsize=16)
 plt.tight_layout()
 
 plt.show()
-# # Total Revenue Plots =============================================================================
+# Total Revenue Plots =============================================================================
 
 
 fig, axs = plt.subplots(2, 2, figsize=(12, 8))  # Adjust figsize as needed
@@ -269,10 +269,9 @@ plt.suptitle('Total Revenue by Component', fontsize=16)
 plt.tight_layout()
 
 plt.show()
-# Employee Stats =============================================================================
 
 
-# Create plots for scenario 2 ==========================================================================
+# Create plots for the alternative scenario ==========================================================================
 weeks=[i for i in range(1,53)]
 
 
@@ -318,7 +317,7 @@ plt.suptitle('High Quality Production Rates by Component with Updated Work Polic
 plt.tight_layout()
 
 plt.show()
-# # Total Revenue Plots =============================================================================
+# Total Revenue Plots =============================================================================
 
 
 fig, axs = plt.subplots(2, 2, figsize=(12, 8))  # Adjust figsize as needed
@@ -357,6 +356,5 @@ plt.tight_layout()
 
 plt.show()
 
-# Employee Stats =============================================================================
 
 
