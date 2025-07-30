@@ -28,13 +28,13 @@ component type.
 <img width="1713" height="1136" alt="image" src="https://github.com/user-attachments/assets/cd5aafe8-df0e-4928-bf5b-efed400ebca1" />
 
 ## Improvements in KPIs
-**Revenue Increases:**
-50% for **LEDs**
-135% for **Photodiodes**
-117% for **Capacitors**
-228% for **LCDs**
-**Increases in Passed Production**
-30% for **LEDs**
-62% for **Photodiodes**
-78% for **Capacitors**
-80% for **LCDs**
+**Revenue Increases:**  
+50% for **LEDs**  
+135% for **Photodiodes**  
+117% for **Capacitors**  
+228% for **LCDs**  
+**Increases in Passed Production**  
+30% for **LEDs**  
+62% for **Photodiodes**  
+78% for **Capacitors**  
+80% for **LCDs**  
