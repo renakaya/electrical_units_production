@@ -16,10 +16,25 @@ The following helper functions were defined to create the plots of high quality 
 `total_revenue(productType, prodData):` Returns an array of the weekly total revenue of a given product type    
 
 ## Initial Plots
+<img width="1713" height="1136" alt="image" src="https://github.com/user-attachments/assets/95e1653a-691a-4d0d-bb2b-631f74910c10" />
+<img width="1713" height="1136" alt="image" src="https://github.com/user-attachments/assets/2d3e32e1-f4e7-4736-8275-5d3970a19484" />
 
 # Suggestion for Improvement
 In an attempt to increase the number of high quality production - and as a result, revenue - a recommendation is made to specialize employees on the electrical component type that they
-have the highest quality score in. Another set of data was calculated using `yearly_production`, called `updated_yearly_production`, where every employee was simulated to produce their 
-component type. The same plots from the initial analysis were recreated to show that the production goals were exceeded by xx amounts on average.
+have the highest quality score for. Another set of data was calculated using `yearly_production`, called `updated_yearly_production`, where every employee was simulated to produce their 
+component type. 
 ## Improved Plots
- 
+ <img width="1713" height="1136" alt="image" src="https://github.com/user-attachments/assets/1041f6c8-08f6-4799-bb14-7a46ebaf3fe7" />
+<img width="1713" height="1136" alt="image" src="https://github.com/user-attachments/assets/cd5aafe8-df0e-4928-bf5b-efed400ebca1" />
+
+## Improvements in KPIs
+**Revenue Increases:**
+50% for **LEDs**
+135% for **Photodiodes**
+117% for **Capacitors**
+228% for **LCDs**
+**Increases in Passed Production**
+30% for **LEDs**
+62% for **Photodiodes**
+78% for **Capacitors**
+80% for **LCDs**
